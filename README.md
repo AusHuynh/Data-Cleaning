@@ -11,5 +11,5 @@ The objective of this project is to clean up the data to be usable. Cleaning of 
 4. CHARINDEX
 5. PARSENAME
 6. REPLACE
-7. CASE statment
+7. CASE statement
 8. Common Table Expression (CTE)
